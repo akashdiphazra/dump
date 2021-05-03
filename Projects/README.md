@@ -1,3 +1,3 @@
 # Python Projects #
 ## Contents ##
-#### 1. [Tic Tac Toe]()
+#### 1. [Tic Tac Toe](https://github.com/akashdiphazra/Journey_to_Python/blob/main/Projects/Tic_Tac_Toe.py)
