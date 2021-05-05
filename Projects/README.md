@@ -1,7 +1,7 @@
 # Python Projects #
 
 ## Contents ##
-#### 1. [Number Guessing Game](https://github.com/akashdiphazra/Journey_to_Python/tree/main/Projects/Number%20Guessing%20Game) *[Source: [inventwithpython(chapter->3)](http://inventwithpython.com/invent4thed/chapter3.html)]* 
+#### 1. [Number Guessing Game](https://github.com/akashdiphazra/Journey_to_Python/tree/main/Projects/Number%20Guessing%20Game) *[Source: [inventwithpython(chapter->3)](https://github.com/akashdiphazra/Journey_to_Python/blob/main/Projects/Number%20Guessing%20Game/NumberGuessing.py)]* 
 #### 2. [Hangman]()  *[Source: [inventwithpython(chapter->9)](http://inventwithpython.com/chapter9.html)]* 
 #### 3. [Tic Tac Toe](https://github.com/akashdiphazra/Journey_to_Python/blob/main/Projects/Tic%20Tac%20Toe/Tic_Tac_Toe.py)  *[Source: [inventwithpython(chapter->10)](https://inventwithpython.com/chapter10.htmlNumber Guessing Game
 
