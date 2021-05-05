@@ -7,3 +7,5 @@ This repository takes you to the entire journey of python programming language f
 #### 3. *[Mastering Python Libraries]()*
 #### 4. *GUI Programming*
    - [Tkinter](https://github.com/akashdiphazra/Journey_to_Python/tree/main/GUI%20Programming)
+#### 4. *Game Programming*
+   - [Pygame]()
