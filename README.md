@@ -3,7 +3,7 @@ This repository takes you to the entire journey of python programming language f
 
 ## *Table Contents*
 #### 1. *[Python Programming Basics](https://github.com/akashdiphazra/Journey_to_Python/tree/main/Python%20Programming%20Basics)*
-#### 2. *[Projects](https://github.com/akashdiphazra/Journey_to_Python/tree/main/Projects)*
+#### 2. *[Python projects](https://github.com/akashdiphazra/Journey_to_Python/tree/main/Projects)*
 #### 3. *[Mastering Python Libraries]()*
 #### 4. *GUI Programming*
    - [Tkinter](https://github.com/akashdiphazra/Journey_to_Python/tree/main/GUI%20Programming)
