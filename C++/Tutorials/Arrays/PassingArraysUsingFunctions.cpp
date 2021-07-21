@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-void printarray(int arr[], int size);
+void printarray1(int arr[], int size);
+void printarray2(int *arr, int size);
 
 int main()
 {

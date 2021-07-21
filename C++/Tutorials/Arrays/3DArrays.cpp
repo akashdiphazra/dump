@@ -3,21 +3,23 @@ using namespace std;
 
 int main()
 {
-    // 4 rows , 3 columns, how many elements per brackets
-    int x[4][3][2] = {{{40, 41}, {20, 23}, {43, 59}},
-                      {{34, 37}, {38, 29}, {44, 41}},
-                      {{44, 30}, {28, 29}, {30, 11}},
-                      {{13, 72}, {48, 92}, {11, 20}}};
+    // 3D Arrays --> {[rows] [columns] [Number of elements in each columns]}
+    int array_3d[4][3][4] = {
+        {{13, 14, 12, 13}, {23, 13, 9, 11}, {23, 12, 23, 2}},
+        {{13, 4, 56, 3}, {5, 9, 3, 5}, {5, 1, 4, 9}},
+        {{13, 14, 526, 23}, {25, 29, 23, 25}, {52, 12, 42, 22}},
+        {{3, 1, 56, 23}, {25, 29, 3, 25}, {5, 12, 2, 2}}};
 
-    // output each element's value
-    for (int i = 0; i < 4; ++i)
+    cout << "\n3D Array: " << endl;
+    for (int i = 0; i < 4; i++)
     {
-        for (int j = 0; j < 3; ++j)
+        for (int j = 0; j < 3; j++)
         {
-            for (int k = 0; k < 2; ++k)
+            for (int k = 0; k < 4; k++)
             {
-                cout << x[i][j][k] << "  ";
+                cout << array_3d[i][j][k] << " ";
             }
+            cout << endl;
         }
         cout << endl;
     }
