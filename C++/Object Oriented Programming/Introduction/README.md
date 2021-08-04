@@ -1,3 +1,0 @@
-### What is Object Oriented Programming ?
-#### *The concept of object oriented programming was originated from SIMULA (i.e a type of  simulation programming language) that relies on encapsulation, inheritance, and polymorphism. Like C++ and many other programming languages using class hierarchies and virtual functions, the object oriented programming allows manipulation of different types of object through well defined interfaces and also allows a program to extent incrementally through derivation.*
-#### <p> *Like other programming languages C++ also supports object oriented features like encapsulation, inheritance, and polymorphism.* </p>
